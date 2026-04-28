@@ -5,7 +5,7 @@
 // --- Config ---
 // 1. Replace the URL below with your actual Render/Heroku URL
 // 2. Keep the "/analyze" at the end.
-const BACKEND_URL = "https://synops-scanner-own.onrender.com";
+const BACKEND_URL = "https://synops-scanner-own.onrender.com/analyze";
 
 // --- DOM refs ---
 const fileInput       = document.getElementById("fileInput");
